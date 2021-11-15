@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586217895 source:c:\users\utente\documents\codeblocks\projects\il gioco della vita\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+
